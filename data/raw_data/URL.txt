@@ -2,3 +2,7 @@ SA2 District Boundaries: https://www.abs.gov.au/statistics/standards/australian-
 Total population by SA2: https://www.abs.gov.au/statistics/people/population/regional-population/latest-release#data-download
 Total personal income (weekly) SA2: https://explore.data.abs.gov.au/vis?pg=0&df[ds]=CENSUS_2021_TOPICS&df[id]=C21_G17_SA2&df[ag]=ABS&df[vs]=1.0.0&hc[dataflowId]=C21_G17_SA2&tm=income%20SA2&pd=2021%2C&dq=._T._T..SA2.2&ly[rs]=REGION%2CSEXP
 Population Forecasting: https://www.planning.vic.gov.au/land-use-and-population-research/victoria-in-future/tab-pages/victoria-in-future-data-tables
+School locations: https://discover.data.vic.gov.au/dataset/school-locations-2022 
+Public Transport Victoria data 1: https://discover.data.vic.gov.au/dataset/traffic-count-locations
+Public Transport Victoria data 2: https://discover.data.vic.gov.au/dataset/traffic-volume
+Geospatial API: https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/data-services-and-apis
