@@ -1,0 +1,15 @@
+https://www.domain.com.au/rent/?postcode=3000&ssubs=0&sort=default-desc, 585 results, 30 pages
+https://www.domain.com.au/rent/?postcode=3002&ssubs=0&sort=default-desc, 44 results, 3 pages
+https://www.domain.com.au/rent/?postcode=3003&ssubs=0&sort=default-desc , 71 results, 4 pages
+https://www.domain.com.au/rent/?postcode=3004&ssubs=0&sort=default-desc, 98 results, 5 pages
+https://www.domain.com.au/rent/?postcode=3006&ssubs=0&sort=default-desc, 227 results, 12 pages
+https://www.domain.com.au/rent/?postcode=3008&ssubs=0&sort=default-desc, 139 results, 7 pages
+https://www.domain.com.au/rent/?postcode=3011&ssubs=0&sort=default-desc, 198 results, 10 pages
+https://www.domain.com.au/rent/?postcode=3012&ssubs=0&sort=default-desc, 127 results, 7 pages
+https://www.domain.com.au/rent/?postcode=3013&ssubs=0&sort=default-desc, 69 results, 4 pages
+https://www.domain.com.au/rent/?postcode=3015&ssubs=0&sort=default-desc, 77 resullts, 4 pages
+https://www.domain.com.au/rent/?postcode=3016&ssubs=0&sort=default-desc, 62 results, 4 pages 
+https://www.domain.com.au/rent/?postcode=3018&ssubs=0&sort=default-desc, 55 results, 3 pages
+https://www.domain.com.au/rent/?postcode=3019&ssubs=0&sort=default-desc, 28 results, 2 pages
+https://www.domain.com.au/rent/?postcode=3020&ssubs=0&sort=default-desc, 119 results, 6 pages
+https://www.domain.com.au/rent/?postcode=3021&ssubs=0&sort=default-desc, 143 results, 8 pages
