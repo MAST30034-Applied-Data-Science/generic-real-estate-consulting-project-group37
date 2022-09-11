@@ -9,7 +9,6 @@ from json import dump
 from ast import excepthandler
 from collections import defaultdict
 
-
 # user packages
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
