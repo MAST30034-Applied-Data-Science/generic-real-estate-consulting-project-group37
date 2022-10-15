@@ -19,7 +19,7 @@ To run the pipeline, please visit the scripts directory and run the files in ord
 
 1.`scrape.py`: This downloads the scraped rental properties data from https://www.domain.com.au/
 
-2.`URL.ipynb`: This downloads the SA2 distinct boundaries, population data and yearly personal income by SA2 distincts  from https://www.abs.gov.au/
+2.`URL.ipynb`: This downloads the SA2 distinct boundaries, population data and annual personal income data by SA2 distincts  from https://www.abs.gov.au/
 
 3.`visualization.ipynb`: This visualizes the geolocation of the scraped properties on map.
 
